@@ -1,0 +1,58 @@
+[
+  {
+    "name": "node-1.devtest",
+    "reward_addr": "devtestGMbsj6xXoNBDgGkAHb8yHd1qQG2aWdmKA",
+    "power": 10,
+    "listen_port": 46656,
+    "announce": "103.5.193.25:46656",
+    "public": "103.5.193.25:46657",
+    "ip_in": "103.5.193.25",
+    "ip_out": "103.5.193.25",
+    "ip_priv": "192.168.137.25",
+    "apps": [
+      "tcp://127.0.0.1:46658"
+    ]
+  },
+  {
+    "name": "node-2.devtest",
+    "reward_addr": "devtest8ZMgB7kkXMbPs1feiosFaLq4MprABm8nE",
+    "power": 10,
+    "listen_port": 46656,
+    "announce": "182.16.114.59:46656",
+    "public": "182.16.114.59:46657",
+    "ip_in": "182.16.114.59",
+    "ip_out": "182.16.114.59",
+    "ip_priv": "192.168.113.80",
+    "apps": [
+      "tcp://192.168.113.81:46658"
+    ]
+  },
+  {
+    "name": "node-3.devtest",
+    "reward_addr": "devtest2QrpnDnVEAUFpqSRELCaoA517wtj9r2xc",
+    "power": 10,
+    "listen_port": 46656,
+    "announce": "148.66.11.131:46656",
+    "public": "148.66.11.131:46657",
+    "ip_in": "148.66.11.131",
+    "ip_out": "148.66.11.131",
+    "ip_priv": "192.170.41.31",
+    "apps": [
+      "tcp://192.170.41.32:46658"
+    ]
+  },
+  {
+    "name": "node-4.devtest",
+    "reward_addr": "devtestJidNDnFRL2AsdTD1ijuVoP8FXAXMoQRr5",
+    "power": 10,
+    "listen_port": 46656,
+    "announce": "113.10.159.201:46656",
+    "public": "113.10.159.201:46657",
+    "ip_in": "113.10.159.201",
+    "ip_out": "113.10.159.202",
+    "ip_priv": "192.168.105.101",
+    "apps": [
+      "tcp://172.16.105.102:46658"
+    ]
+  }
+]

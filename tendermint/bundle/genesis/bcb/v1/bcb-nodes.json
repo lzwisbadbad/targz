@@ -1,0 +1,86 @@
+[
+  {
+    "name": "earth",
+    "reward_addr": "bcb5xjCpYJrKkyM3kgo5Jk8Pge7XDTwuvSUm",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "113.10.236.34:37826",
+    "public": "113.10.236.34:37827",
+    "ip_in": "113.10.236.34",
+    "ip_out": "113.10.236.34",
+    "ip_priv": "172.16.30.134",
+    "apps": [
+      "tcp://172.16.30.133:46658"
+    ]
+  },
+  {
+    "name": "venus",
+    "reward_addr": "bcb5rzgE1tSJbJuegEj4vbAkotmwRkxwiSyV",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "182.16.114.88:37826",
+    "public": "182.16.114.88:37827",
+    "ip_in": "182.16.114.88",
+    "ip_out": "182.16.114.88",
+    "ip_priv": "172.16.30.123",
+    "apps": [
+      "tcp://172.16.30.122:46658"
+    ]
+  },
+  {
+    "name": "jupiter",
+    "reward_addr": "bcb3JivtUWiDG48dbWDvFBUHDL8veB7JvQvS",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "148.66.11.243:37826",
+    "public": "148.66.11.243:37827",
+    "ip_in": "148.66.11.243",
+    "ip_out": "148.66.11.243",
+    "ip_priv": "172.16.30.103",
+    "apps": [
+      "tcp://172.16.30.102:46658"
+    ]
+  },
+  {
+    "name": "mercury",
+    "reward_addr": "bcbKG7Y7hWLhjxiBNZ8UBgja4ocLcSHKW4b4",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "113.10.159.191:37826",
+    "public": "113.10.159.191:37827",
+    "ip_in": "113.10.159.191",
+    "ip_out": "113.10.159.191",
+    "ip_priv": "172.16.140.101",
+    "apps": [
+      "tcp://172.16.140.102:46658"
+    ]
+  },
+  {
+    "name": "mars",
+    "reward_addr": "bcbAb65XuCz8bWHB1ittqMQSRyLvDmb74KRB",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "125.208.8.226:37826",
+    "public": "125.208.8.226:37827",
+    "ip_in": "125.208.8.226",
+    "ip_out": "125.208.8.226",
+    "ip_priv": "192.168.137.226",
+    "apps": [
+      "tcp://192.168.137.227:46658"
+    ]
+  },
+  {
+    "name": "pluto",
+    "reward_addr": "bcbCfciTQNLQGwRWadxXg6ms8dBguP5sooX8",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "103.5.193.36:37826",
+    "public": "103.5.193.36:37827",
+    "ip_in": "103.5.193.36",
+    "ip_out": "103.5.193.36",
+    "ip_priv": "192.168.137.36",
+    "apps": [
+      "tcp://192.168.137.37:46658"
+    ]
+  }
+]

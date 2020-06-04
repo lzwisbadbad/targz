@@ -1,0 +1,86 @@
+[
+  {
+    "name": "tearth",
+    "reward_addr": "bcbtest82JVui6oqz6YuP3NciLfxEur99y7VpHtR",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "113.10.236.38:37826",
+    "public": "113.10.236.38:37827",
+    "ip_in": "113.10.236.38",
+    "ip_out": "113.10.236.38",
+    "ip_priv": "172.16.30.138",
+    "apps": [
+      "tcp://172.16.30.137:46658"
+    ]
+  },
+  {
+    "name": "tvenus",
+    "reward_addr": "bcbtestBVbSrari2k6dtTgH9pmH8gy6CkAtUzyva",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "59.188.14.207:37826",
+    "public": "59.188.14.207:37827",
+    "ip_in": "59.188.14.207",
+    "ip_out": "59.188.14.207",
+    "ip_priv": "172.16.30.127",
+    "apps": [
+      "tcp://172.16.30.126:46658"
+    ]
+  },
+  {
+    "name": "tjupiter",
+    "reward_addr": "bcbtest3Y3WpgV692B1ajtBo84w6StVmCJCwAXqR",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "148.66.11.247:37826",
+    "public": "148.66.11.247:37827",
+    "ip_in": "148.66.11.247",
+    "ip_out": "148.66.11.247",
+    "ip_priv": "172.16.30.107",
+    "apps": [
+      "tcp://172.16.30.110:46658"
+    ]
+  },
+  {
+    "name": "tmercury",
+    "reward_addr": "bcbtestNiDxtNSsz8Peuo14XaRC2qSnVSJWZw4Nd",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "113.10.159.195:37826",
+    "public": "113.10.159.195:37827",
+    "ip_in": "113.10.159.195",
+    "ip_out": "113.10.159.195",
+    "ip_priv": "172.16.140.105",
+    "apps": [
+      "tcp://172.16.140.106:46658"
+    ]
+  },
+  {
+    "name": "taltair",
+    "reward_addr": "bcbtestMVUjHFVqD15SCNovu9HUyM9uhALuuMQaS",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "103.17.30.205:37826",
+    "public": "103.17.30.205:37827",
+    "ip_in": "103.17.30.205",
+    "ip_out": "103.17.30.205",
+    "ip_priv": "172.18.136.105",
+    "apps": [
+      "tcp://172.18.136.106:46658"
+    ]
+  },
+  {
+    "name": "tmars",
+    "reward_addr": "bcbtestFpVJe5ERCwLr3VLwebk2VH1LomG4VWaVH",
+    "power": 10,
+    "listen_port": 37826,
+    "announce": "125.208.8.234:37826",
+    "public": "125.208.8.234:37827",
+    "ip_in": "125.208.8.234",
+    "ip_out": "125.208.8.234",
+    "ip_priv": "192.168.137.234",
+    "apps": [
+      "tcp://192.168.137.235:46658"
+    ]
+  }
+]

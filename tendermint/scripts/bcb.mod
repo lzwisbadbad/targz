@@ -1,0 +1,1 @@
+github.com/bcbchain/genesis-smart-contract v0.0.1
